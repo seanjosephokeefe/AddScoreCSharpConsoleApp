@@ -1,0 +1,12 @@
+C:\Users\sjokeefe\Desktop\AddAScore\AddAScore\bin\Debug\AddAScore.exe.config
+C:\Users\sjokeefe\Desktop\AddAScore\AddAScore\bin\Debug\AddAScore.exe
+C:\Users\sjokeefe\Desktop\AddAScore\AddAScore\bin\Debug\AddAScore.pdb
+C:\Users\sjokeefe\Desktop\AddAScore\AddAScore\obj\Debug\AddAScore.csprojResolveAssemblyReference.cache
+C:\Users\sjokeefe\Desktop\AddAScore\AddAScore\obj\Debug\AddAScore.exe
+C:\Users\sjokeefe\Desktop\AddAScore\AddAScore\obj\Debug\AddAScore.pdb
+J:\AddAScore\AddAScore\bin\Debug\AddAScore.exe.config
+J:\AddAScore\AddAScore\obj\Debug\AddAScore.exe
+J:\AddAScore\AddAScore\obj\Debug\AddAScore.pdb
+J:\AddAScore\AddAScore\bin\Debug\AddAScore.exe
+J:\AddAScore\AddAScore\bin\Debug\AddAScore.pdb
+J:\AddAScore\AddAScore\obj\Debug\AddAScore.csprojResolveAssemblyReference.cache
